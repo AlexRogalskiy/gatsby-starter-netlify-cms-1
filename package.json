@@ -8,7 +8,7 @@
     "@mdx-js/loader": "^0.15.4",
     "@mdx-js/mdx": "^0.15.3",
     "@mdx-js/tag": "^0.15.0",
-    "bulma": "^0.7.0",
+    "bulma": "^0.9.0",
     "gatsby": "^2.0.0",
     "gatsby-mdx": "^0.1.4",
     "gatsby-plugin-netlify": "^2.0.0",
